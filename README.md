@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="(https://postfiles.pstatic.net/MjAyMzA0MDNfNjEg/MDAxNjgwNTI3OTA4ODcz.yeLN5hIDrGgMImVB1VZuWw3ML7aLgJnqrlK3unLzgk0g.WEXb7_3uyQ6MMAaJ8Bey6xlChRcbm964LXtyiEz1f5sg.PNG.dianahye/dev%EF%BC%8Djeans.png?type=w773)">
-<img src="(https://postfiles.pstatic.net/MjAyMzA0MDNfNjEg/MDAxNjgwNTI3OTA4ODcz.yeLN5hIDrGgMImVB1VZuWw3ML7aLgJnqrlK3unLzgk0g.WEXb7_3uyQ6MMAaJ8Bey6xlChRcbm964LXtyiEz1f5sg.PNG.dianahye/dev%EF%BC%8Djeans.png?type=w773)" width="500" height="500">
+<img src="https://postfiles.pstatic.net/MjAyMzA0MDNfNjEg/MDAxNjgwNTI3OTA4ODcz.yeLN5hIDrGgMImVB1VZuWw3ML7aLgJnqrlK3unLzgk0g.WEXb7_3uyQ6MMAaJ8Bey6xlChRcbm964LXtyiEz1f5sg.PNG.dianahye/dev%EF%BC%8Djeans.png?type=w773]](https://i.guim.co.uk/img/media/28533e565bb4c54c399e162ab306b19c541994f9/0_97_3158_1895/master/3158.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=33de91116039176f3b67a6d3232cdf30">
+
