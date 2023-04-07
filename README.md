@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="[이미지 URL](https://postfiles.pstatic.net/MjAyMzA0MDNfNjEg/MDAxNjgwNTI3OTA4ODcz.yeLN5hIDrGgMImVB1VZuWw3ML7aLgJnqrlK3unLzgk0g.WEXb7_3uyQ6MMAaJ8Bey6xlChRcbm964LXtyiEz1f5sg.PNG.dianahye/dev%EF%BC%8Djeans.png?type=w773)">
-<img src="[이미지 URL](https://postfiles.pstatic.net/MjAyMzA0MDNfNjEg/MDAxNjgwNTI3OTA4ODcz.yeLN5hIDrGgMImVB1VZuWw3ML7aLgJnqrlK3unLzgk0g.WEXb7_3uyQ6MMAaJ8Bey6xlChRcbm964LXtyiEz1f5sg.PNG.dianahye/dev%EF%BC%8Djeans.png?type=w773)" width="500" height="500">
+<img src="(https://postfiles.pstatic.net/MjAyMzA0MDNfNjEg/MDAxNjgwNTI3OTA4ODcz.yeLN5hIDrGgMImVB1VZuWw3ML7aLgJnqrlK3unLzgk0g.WEXb7_3uyQ6MMAaJ8Bey6xlChRcbm964LXtyiEz1f5sg.PNG.dianahye/dev%EF%BC%8Djeans.png?type=w773)">
+<img src="(https://postfiles.pstatic.net/MjAyMzA0MDNfNjEg/MDAxNjgwNTI3OTA4ODcz.yeLN5hIDrGgMImVB1VZuWw3ML7aLgJnqrlK3unLzgk0g.WEXb7_3uyQ6MMAaJ8Bey6xlChRcbm964LXtyiEz1f5sg.PNG.dianahye/dev%EF%BC%8Djeans.png?type=w773)" width="500" height="500">
