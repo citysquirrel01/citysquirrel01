@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/126487044/230585483-e815b62e-52f7-418e-8e2a-0a83489b3cba.png" width=200 />
 🔭 I’m currently working on ... Samsung Electronics 
-<span style="color:yellow">노란 글씨입니다.</span>
+- 🌱 I’m currently learning ... Python 
+- - ⚡ Fun fact: ... I haven't studied any IT field things for a decades But I'm working in the IT field. What a shame lol 
